@@ -40,13 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'apps.users.apps.UsersConfig',
     'DjangoUeditor',
     'goods',
     'trade',
     'user_operation',
-    'xadmin',
     'crispy_forms',
+    'users',
 
 ]
 

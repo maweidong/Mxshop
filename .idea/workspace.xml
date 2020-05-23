@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105590aa-b87c-401b-8bd0-fb24eaa579c4" name="Default Changelist" comment="" />
+    <list default="true" id="105590aa-b87c-401b-8bd0-fb24eaa579c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/goods/views_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mxshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mxshop/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,46 +18,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/goods/adminx.py">
+        <entry file="file://$PROJECT_DIR$/apps/goods/views_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1206">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="42">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VueShop/lib/python3.7/site-packages/django/db/models/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mxshop/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding>
-                <element signature="e#217#230#0" expanded="true" />
+                <element signature="e#307#316#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+        <entry file="file://$PROJECT_DIR$/../VueShop/lib/python3.7/site-packages/django/apps/registry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/trade/adminx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/user_operation/adminx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-              <folding>
-                <element signature="e#218#231#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="244">
+              <caret line="121" column="21" selection-start-line="121" selection-end-line="122" />
             </state>
           </provider>
         </entry>
@@ -77,6 +75,9 @@
       <find>constraint</find>
       <find>curr</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,19 +109,20 @@
         <option value="$PROJECT_DIR$/extra_apps/xadmin/sites.py" />
         <option value="$PROJECT_DIR$/extra_apps/xadmin/views/list.py" />
         <option value="$PROJECT_DIR$/extra_apps/xadmin/util.py" />
-        <option value="$PROJECT_DIR$/Mxshop/settings.py" />
         <option value="$PROJECT_DIR$/apps/trade/adminx.py" />
         <option value="$PROJECT_DIR$/apps/user_operation/adminx.py" />
         <option value="$PROJECT_DIR$/apps/goods/adminx.py" />
+        <option value="$PROJECT_DIR$/Mxshop/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="36" />
+    <option name="y" value="23" />
     <option name="width" value="1404" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -147,6 +149,22 @@
             </path>
             <path>
               <item name="Mxshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mxshop" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mxshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mxshop" type="462c0819:PsiDirectoryNode" />
+              <item name="db_tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mxshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mxshop" type="462c0819:PsiDirectoryNode" />
+              <item name="Mxshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mxshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -162,15 +180,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/goods" />
       <recent name="$PROJECT_DIR$/apps/users" />
       <recent name="$PROJECT_DIR$/apps/user_operation" />
       <recent name="$PROJECT_DIR$/apps/trade" />
-      <recent name="$PROJECT_DIR$/apps/goods" />
       <recent name="$PROJECT_DIR$/extra_apps" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/apps" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,15 +241,15 @@
       <updated>1588649530891</updated>
       <workItem from="1588649533557" duration="15343000" />
       <workItem from="1589889976220" duration="1463000" />
-      <workItem from="1590239287330" duration="314000" />
+      <workItem from="1590239287330" duration="1478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17120000" />
+    <option name="totallyTimeSpent" value="18284000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="31" width="1404" height="877" extended-state="1" />
+    <frame x="37" y="23" width="1404" height="877" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16446403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -239,7 +257,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4356688" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4356688" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -247,7 +265,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29171973" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29171973" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -470,26 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/adminx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testmmm/migrations/__init__.py" />
     <entry file="file://$PROJECT_DIR$/apps/goods/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -502,16 +500,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mxshop/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#665#693#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/views/website.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -529,16 +517,6 @@
           <caret line="354" selection-start-line="354" selection-end-line="354" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mxshop/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1973">
-          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
-          <folding>
-            <element signature="e#307#316#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -563,23 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../VueShop/lib/python3.7/site-packages/django/db/models/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="107" column="19" selection-start-line="107" selection-start-column="19" selection-end-line="107" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/goods/adminx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#217#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/trade/adminx.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -597,13 +558,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mxshop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#665#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
-          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#217#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/views_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VueShop/lib/python3.7/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mxshop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VueShop/lib/python3.7/site-packages/django/apps/registry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="121" column="21" selection-start-line="121" selection-end-line="122" />
         </state>
       </provider>
     </entry>
