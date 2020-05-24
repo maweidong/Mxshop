@@ -14,5 +14,5 @@ class GoodsListView(View):
         """
         goods = Goods.objects.all()[:10]
         json_data = serializers.serialize('json', goods)  # 获取到字符串
-        json_data = json.loads(json_data)
-        return JsonResponse(json_data, safe=False)
+        json_dict = json.loads(json_data)  # 字符串转字典
+        return JsonResponse(json_dict, safe=False)
